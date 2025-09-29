@@ -1,5 +1,5 @@
 
-# Semantic Segmentaion of Aerial Imaginary
+# Semantic Segmentation of Aerial Imaginary
 
 ### Data Preparation 
 
