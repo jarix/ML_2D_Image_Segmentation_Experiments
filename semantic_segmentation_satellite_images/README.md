@@ -9,3 +9,5 @@
 
 * Run datapreparation.ipynb notebook, it will split the dataset files in 'train', 'val', and 'test' folders
 
+* The required Python libraries are in requirements.txt, run:
+```pip install -r requirements.txt```
